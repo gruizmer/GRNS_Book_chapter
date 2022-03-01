@@ -1,0 +1,2 @@
+# GRNS_Book_chapter
+The dataset files contain the steady-state and dynamic (time sets) chemical process simulation results (mass flows, temperature profiles), GREENSCOPE performance indicator results, and concentration profiles of different components for the production of bio-ethanol (2 case studies of a fermentation process with different dilution rates) with and without a novel process control strategy for releases reduction. The datasets show all data values used to generate each of the figures. 
